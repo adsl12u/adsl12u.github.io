@@ -7,6 +7,6 @@ categories: 首页
 
 ## 欢迎来到七爷的小站！
 
-日语相关——http://blog.sakurako.cn/nihonngo
+[日语相关](http://blog.sakurako.cn/nihonngo)
 
-###其他相关内容正在建设中
+### 其他相关内容正在建设中
