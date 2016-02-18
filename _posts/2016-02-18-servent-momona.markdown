@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: "【安利】名为梦梦奈的Servent"
 date: 2016-02-18 09:49:02 +0800
 category: 宅福利
