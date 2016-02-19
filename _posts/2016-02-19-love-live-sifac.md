@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "【吓】Lovelive SIF街机版"
 date: 2016-02-19 09:25:43 +0800
 category: 见闻
