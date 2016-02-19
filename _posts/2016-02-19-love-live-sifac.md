@@ -1,14 +1,14 @@
 ---
 layout: posts
-title: "¡¾ÏÅ¡¿Lovelive SIF½Ö»ú°æ"
+title: "ã€å“ã€‘Lovelive SIFè¡—æœºç‰ˆ"
 date: 2016-02-19 09:25:43 +0800
-category: ¼ûÎÅ
+category: è§é—»
 ---
 
-## Ñ§Ô°Å¼Ïñ¼À¾¹È»³ö½Ö»ú°æÁË£¡
+## å­¦å›­å¶åƒç¥­ç«Ÿç„¶å‡ºè¡—æœºç‰ˆäº†ï¼
 
 ![sifac](http://ww4.sinaimg.cn/large/6528ed13jw1f14e68aspzj20vo0ge4mj.jpg)
 
-¾ÝËµ»¹´øÌå¸Ð¡­¡­ÏëÏë¾ÍÊÇÂúÂúµÄÐß³Üplay°¡¡£
+æ®è¯´è¿˜å¸¦ä½“æ„Ÿâ€¦â€¦æƒ³æƒ³å°±æ˜¯æ»¡æ»¡çš„ç¾žè€»playå•Šã€‚
 
-»°ËµÎÒÃÇÕâÐ©¹úÄÚµÄÐ¡ÅóÓÑÃÇÖ»ÄÜÖ¸ÍûÌÀÄ·ÐÜÁËÃ´¡ú_¡ú
+è¯è¯´æˆ‘ä»¬è¿™äº›å›½å†…çš„å°æœ‹å‹ä»¬åªèƒ½æŒ‡æœ›æ±¤å§†ç†Šäº†ä¹ˆâ†’_â†’ 
